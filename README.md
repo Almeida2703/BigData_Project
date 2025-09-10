@@ -23,8 +23,3 @@ Develop a data analysis system for "Urban Mobility Patterns Analysis," using Mon
 3. Run scripts in `/scripts` for data processing and analysis.  
 4. Explore notebooks in `/notebooks` for visualizations and insights.
 
-Install Python dependencies.
-
-Run scripts in /scripts for data processing and analysis.
-
-Explore notebooks in /notebooks for visualizations and insights.
