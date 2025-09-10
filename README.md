@@ -3,7 +3,7 @@
 **Final Project – Big Data**  
 *Bachelor in Digital Technologies, AI & Decision Support Systems*
 
-This project analyzes urban mobility patterns using **MongoDB** and **PySpark**. It collects, cleans, and processes datasets (traffic, public transport, shared bikes) to identify congestion hotspots, usage patterns, and correlations between variables like weather and traffic volume.
+Develop a data analysis system for "Urban Mobility Patterns Analysis," using MongoDB and PySpark, applying the concepts and techniques covered in the Big Data course.
 
 ## Features
 - Batch and advanced data processing with PySpark  
